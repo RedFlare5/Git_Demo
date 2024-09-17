@@ -2,7 +2,7 @@
 
 
 def main():
-    print("Hello HEVT!")
+    print("Hello main!")
 
 
 if __name__ == "__main__":
